@@ -1,0 +1,6 @@
+c:\users\turan\documents\visual studio 2017\Projects\Average\Average\bin\Debug\Average.exe.config
+c:\users\turan\documents\visual studio 2017\Projects\Average\Average\bin\Debug\Average.exe
+c:\users\turan\documents\visual studio 2017\Projects\Average\Average\bin\Debug\Average.pdb
+c:\users\turan\documents\visual studio 2017\Projects\Average\Average\obj\Debug\Average.csprojResolveAssemblyReference.cache
+c:\users\turan\documents\visual studio 2017\Projects\Average\Average\obj\Debug\Average.exe
+c:\users\turan\documents\visual studio 2017\Projects\Average\Average\obj\Debug\Average.pdb
